@@ -24,6 +24,8 @@ Nuvio is the current Kotlin Multiplatform rewrite of the original React Native a
 
 The mobile app is built from a single shared codebase in [composeApp](./composeApp), with native platform entry points for Android and iOS.
 
+This fork’s purpose is changing little things into my liking.You will understand if you build it.
+
 ## Installation
 
 ### Android
